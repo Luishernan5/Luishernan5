@@ -4,7 +4,7 @@
 <p align="center">Coding the future, one keystroke at a time.</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palettes/mocha.png" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif">
 </div>
 
 ---
@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
