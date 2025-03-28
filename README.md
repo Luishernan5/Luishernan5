@@ -13,7 +13,7 @@
 - 👋 Hi, I’m *@Luishernan5*  
 - 👨‍💻 Systems Engineering student @ Tecnológico de Jilotepec  
 - 👀 I’m interested in programming challenges, web dev & creating innovative projects  
-- 🌱 Currently learning *C, **C++, **Python, and **JavaScript*  
+- 🌱 Currently learning *C, **C++, **Python, **Perl, **Arch Linux, and **Hyprland*  
 - ⚙️ Open to collaboration on open-source, backend tools, or creative builds  
 - 📫 Reach me at: *ramirezluishernan5@gmail.com*  
 - ⚡ Fun fact: I love solving programming problems and constantly leveling up my skills  
@@ -34,6 +34,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,6 +48,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-282A36?style=for-the-badge&logo=nixos&logoColor=white)
 
 ---
 
@@ -57,7 +60,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luishernan5&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luishernan5&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luishernan5&theme=tokyonight&layout=compact&hide_border=false" />
 </div>
 
 ---
