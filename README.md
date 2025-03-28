@@ -58,7 +58,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luishernan5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luishernan5&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luishernan5&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false&custom_title=GitHub%20Streak%20%7C%20LuisHernan5" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luishernan5&theme=tokyonight&layout=compact&hide_border=false" />
 </div>
