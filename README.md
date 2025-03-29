@@ -1,14 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
-
+<img width="1280" height="720" src="https://github.com/Luishernan5/Luishernan5/blob/main/images/-%20Find%20&%20Share%20on%20GIPHY(1).gif?raw=true" align="center"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=84C2C0&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;printf(%22LuisHernan5%5Cn%22);Coding+the+future+one+keystroke+at+a+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=84C2C0&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;printf('LuisHernan5');Coding+the+future+one+keystroke+at+a+time." alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-# 💫 About Me:
+</p>
+
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me:
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 - 👋 Hi, I’m @Luishernan5  
 - 👨‍💻 Systems Engineering student @ Tecnológico de Jilotepec  
 - 👀 I’m into programming challenges, web development, and tech innovation  
@@ -16,13 +21,13 @@
 - ⚙️ Open to collaborate on backend tools, creative builds, and open-source  
 - 📫 Reach me at: ramirezluishernan5@gmail.com  
 - ⚡ Fun fact: I love solving logic problems and exploring Linux environments  
-
+</p>
 ---
 
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30px"/> Briefly About Me </h2></summary>
 
-<p align="center"> I’m an engineering student and passionate coder from Mexico <img src="https://media.giphy.com/media/fdLRX3SokTspu/giphy.gif" width="30px"> </p>
+<p> I’m an engineering student and passionate coder from Mexico <img src="https://media.giphy.com/media/fdLRX3SokTspu/giphy.gif" width="30px"> </p>
 
 <ul>
   <li><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> Constantly learning and growing</li>
