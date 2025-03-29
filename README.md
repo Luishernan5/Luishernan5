@@ -80,9 +80,23 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luishernan5&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false&custom_title=GitHub%20Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luishernan5&theme=tokyonight&layout=compact&hide_border=false" />
+
+![](https://github-contributor-stats.vercel.app/api?username=Luishernan5&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luishernan5&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</br>
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=Luishernan5&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
+</br>
+
+<br>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Luishernan5&theme=ambient_gradient&hide_border=false)
+</br>
 </div>
 
 ---
@@ -104,3 +118,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Luishernan5&icon=2&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
