@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    permissions:
+      contents: write  # Asegúrate de que el token tenga permisos de escritura
+
     steps:
       # Paso 1: Checkout del repositorio
       - name: Checkout Repository
