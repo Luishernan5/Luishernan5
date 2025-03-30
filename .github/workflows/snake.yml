@@ -30,11 +30,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Paso 3: Desplegar los archivos generados a la rama 'output'
-      - name: Deploy to Output Branch
+      # Paso 3: Desplegar los archivos generados a la rama 'gh-pages'
+      - name: Deploy to gh-pages Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: output
+          publish_branch: gh-pages  # Cambié 'output' por 'gh-pages'
           commit_message: "Update snake animation [skip ci]"
