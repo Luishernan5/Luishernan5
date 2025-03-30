@@ -109,17 +109,17 @@
 
 ---
 
-## 🧠 Quote to Remember
-
-<p align="center"><i>"My life is walking on a path, and when I turn around, I will see that path that I will never set foot on again..."</i></p>
-
----
-
 # 🐍 GitHub Snake Contributions
 
 <div style="text-align: center;">
   <img src="https://github.com/Luishernan5/Luishernan5/blob/output/ocean.gif?raw=true" alt="GitHub Snake GIF"  align="center"/>
 </div>
+
+---
+
+## 🧠 Quote to Remember
+
+<p align="center"><i>"My life is walking on a path, and when I turn around, I will see that path that I will never set foot on again..."</i></p>
 
 ---
 
