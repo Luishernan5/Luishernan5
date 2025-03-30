@@ -22,7 +22,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: Luishernan5  # Reemplaza con tu nombre de usuario en GitHub
+          github_user_name: Luishernan5  # Tu nombre de usuario en GitHub
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -30,11 +30,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Paso 3: Desplegar los archivos generados a la rama 'gh-pages'
-      - name: Deploy to gh-pages Branch
+      # Paso 3: Desplegar los archivos generados a la rama 'output'
+      - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: gh-pages  # Cambié 'output' por 'gh-pages'
+          publish_branch: output  # Aquí se publica en la rama 'output'
           commit_message: "Update snake animation [skip ci]"
