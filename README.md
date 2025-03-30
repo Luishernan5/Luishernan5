@@ -115,6 +115,14 @@
 
 ---
 
+# 🐍 GitHub Snake Contributions
+
+<div style="text-align: center;">
+  <img src="https://github.com/Luishernan5/Luishernan5/blob/output/ocean.gif?raw=true" alt="GitHub Snake GIF"  align="center"/>
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
