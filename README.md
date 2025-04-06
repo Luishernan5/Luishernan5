@@ -109,7 +109,7 @@
 
 ---
 
-# 🐍 GitHub Snake Contributions
+## 🐍 GitHub Snake Contributions
 
 <div style="text-align: center;">
   <img src="https://github.com/Luishernan5/Luishernan5/blob/output/ocean.gif?raw=true" alt="GitHub Snake GIF"  align="center"/>
