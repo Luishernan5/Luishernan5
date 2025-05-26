@@ -22,6 +22,7 @@
 - 📫 Reach me at: ramirezluishernan5@gmail.com  
 - ⚡ Fun fact: I love solving logic problems and exploring Linux environments  
 </p>
+
 ---
 
 <details open>
