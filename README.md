@@ -8,6 +8,7 @@
 ---
 
 </p>
+<summary align="center"><h2>About Me</h2></summary>
 
 - 👋 Hi, I’m @Luishernan5  
 - 👨‍💻 Systems Engineering student @ Tecnológico de Jilotepec  
@@ -21,7 +22,7 @@
 ---
 
 <details open>
-<summary align="center"><h2> <img alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30px"/> Briefly About Me </h2></summary>
+<summary align="center"><h2>Briefly About Me </h2></summary>
 
 <p> I’m an engineering student and passionate coder from Mexico <img src="https://media.giphy.com/media/fdLRX3SokTspu/giphy.gif" width="30px"> </p>
 
