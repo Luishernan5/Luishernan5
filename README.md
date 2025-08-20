@@ -8,7 +8,7 @@
 ---
 
 </p>
-<summary align="center"><h2>👨‍🎓About Me</h2></summary>
+<summary align="center"><h2>👨‍🎓 About Me</h2></summary>
 
 - 👋 Hi, I’m @Luishernan5  
 - 👨‍💻 Systems Engineering student @ Tecnológico de Jilotepec  
@@ -22,14 +22,14 @@
 ---
 
 <details open>
-<summary align="center"><h2>🚀Briefly About Me </h2></summary>
+<summary align="center"><h2>🚀 Briefly About Me </h2></summary>
 
-<p> I’m an engineering student and passionate coder from Mexico <img src="https://media.giphy.com/media/fdLRX3SokTspu/giphy.gif" width="30px"> </p>
 
 <ul>
-  <li><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> Constantly learning and growing</li>
-  <li><img src="https://media.giphy.com/media/3oKIPCSX4UHmuEHiRW/giphy.gif" width="20"/> Participating in IT events & personal projects</li>
-  <li><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="20"/> Soccer player and tech geek</li>
+  <li><p>💻 I’m an engineering student and passionate coder from Mexico</p></li>
+  <li><p>📖 Constantly learning and growing</p></li>
+  <li><p>🗂️ Participating in IT events & personal projects</p></li>
+  <li><p>⚽ Soccer player and tech geek</p></li>
 </ul>
 </details>
 
