@@ -11,7 +11,7 @@
 <summary align="center"><h2>👨‍🎓 About Me</h2></summary>
 
 - 👋 Hi, I’m @Luishernan5  
-- 👨‍💻 Systems Engineering student @ Tecnológico de Jilotepec  
+- 👨‍💻 Systems Engineering student @ Tecnológico de Jilotepec Edo. Mex
 - 👀 I’m into programming challenges, web development, and tech innovation  
 - 🌱 Currently learning C, C++, Python, Perl, Arch Linux, and Hyprland  
 - ⚙️ Open to collaborate on backend tools, creative builds, and open-source  
