@@ -10,7 +10,7 @@
 </p>
 <summary align="center"><h2>👨‍🎓 About Me</h2></summary>
 
-- 👋 Hi, I’m @Luishernan5  
+- 👋 Hi, I’m @Luishernan  
 - 👨‍💻 Systems Engineering student @ Tecnológico de Jilotepec Edo. Mex
 - 👀 I’m into programming challenges, web development, and tech innovation  
 - 🌱 Currently learning C, C++, Python, Perl, Arch Linux, and Hyprland  
